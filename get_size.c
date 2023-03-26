@@ -1,5 +1,6 @@
-
 #include "main.h"
+#include <limits.h>
+#include <stdio.h>
 
 /**
  * get_size - Calculates the size to cast the argument

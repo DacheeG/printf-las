@@ -1,4 +1,5 @@
 #include "main.h"
+#include <limits.h>
 #include <stdlib.h>
 
 /****************** PRINT POINTER ******************/

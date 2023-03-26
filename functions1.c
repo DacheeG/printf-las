@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
+#include <limits.h>
 
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
